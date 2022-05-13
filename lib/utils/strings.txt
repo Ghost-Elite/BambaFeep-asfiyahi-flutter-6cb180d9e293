@@ -1,0 +1,44 @@
+class Strings{
+    //homeScreen
+    static String cancel= "Cancel";
+    static String exit= "Exit";
+    static String latestVideos= "Latest Videos";
+    static String noData= "No data available";
+    static String tv= "TV";
+    static String tvGuide= "TV Guide";
+    static String shareText= "Download the application";
+    static String on= "on";
+    static String shareWith= "Share with";
+    static String settings= "Settings";
+    static String share= "Share";
+    static String privacyPolicy= "Privacy Policy";
+    static String about= "About";
+
+
+    //guide TV
+    static String morning= 'Morning';
+    static String evening= 'Evening';
+    static String mon= 'Mon';
+    static String tue= 'Tue';
+    static String wed= 'Wed';
+    static String thu= 'Thu';
+    static String fri= 'Fri';
+    static String sat= 'Sat';
+    static String sun= 'Sun';
+    static String today= 'Today';
+
+    //videos Screen
+    static String allVideos= 'All videos';
+    static String videosOf= 'Videos of';
+    static String playlists= 'Playlists';
+    static String similarVideos= 'Similar Videos';
+    static String seeMore= 'See More...';
+
+
+
+
+    //all
+    static String problemServer= "Server Problem";
+    static String tryAgain= "Try Again";
+    static String internetError= "Internet access problem, please check your connection and try again !!!";
+}
